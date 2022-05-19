@@ -2,8 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning c language 
 - 💞️ I’m looking to collaborate on codes and small projects 
-- 📫 How to reach me through my email
-- 
+- 📫 Reach me through my email
 
 <!---
 Priyanshu-SR/Priyanshu-SR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
