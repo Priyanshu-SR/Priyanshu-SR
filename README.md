@@ -1,5 +1,5 @@
 ![logo](https://github.com/Priyanshu-SR/Priyanshu-SR/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
-<h1 align="center">Hi 👋, I'm Priyanshu</h1>
+<h1 align="center">Hola 👋</h1>
 <h3 align="center">Data alchemist transforming numbers into insights.</h3>
 <img align="right" alt="coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
