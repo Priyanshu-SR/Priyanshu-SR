@@ -3,7 +3,7 @@
 <h3 align="center">Data alchemist transforming numbers into insights.</h3>
 <img align="right" alt="coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
-- 🔭 I’m currently working on **Wildlife conservation EDA and ML model**
+- 🔭 I’m currently working on **ML models and deployment**
 
 - 🌱 I’m currently learning **Data Science**
 
